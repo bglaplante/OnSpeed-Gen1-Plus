@@ -19,3 +19,5 @@ Then you can (post-flight) determine the starting thresholds for each OnSpeed po
 Those thresholds can then be placed onto an SD card.  When the system starts, it reads the SD card for configuration values.
 
 A circuit board has been designed to hold the Mega Pro Mini, RS232 converter, LED display, SD card reader, and Step Down power supply.
+
+Licensed under the NC-MIT 1.1 License. See LICENSE file in the project root.
