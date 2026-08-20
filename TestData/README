@@ -1,1 +1,3 @@
-
+Arduino code to generate Dynon D10A message strings, and to rapidly output them.
+By sending strings rapidly and within the range of pulse tone generation speeds we can stress test the system 
+to confirm that we do not get data overruns which can lead to lock-up.
