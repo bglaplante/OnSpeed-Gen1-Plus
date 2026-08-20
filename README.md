@@ -12,3 +12,10 @@ In addition it supports Skyview, and has been bench tested with a data generator
 Skyview data.
 
 Garmin G3X is planned.
+
+The project includes an LED display which shows the current reported AOA percent.
+This simplifies configuration - you do a test flight at various slow flight speeds and record the reported AOA % values.
+Then you can (post-flight) determine the starting thresholds for each OnSpeed point.
+Those thresholds can then be placed onto an SD card.  When the system starts, it reads the SD card for configuration values.
+
+A circuit board has been designed to hold the Mega Pro Mini, RS232 converter, LED display, SD card reader, and Step Down power supply.
